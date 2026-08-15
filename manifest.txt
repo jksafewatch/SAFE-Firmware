@@ -1,5 +1,5 @@
 firmware=V70.22
 safe=S.A.F.E 26.6
-url=https://github.com/jksafewatch/SAFE-Firmware/raw/refs/heads/main/JK_SAFE_FINAL_V70_22.ino_flashed.bin
+url=https://github.com/jksafewatch/SAFE-Firmware/raw/refs/heads/main/JK_SAFE_FINAL_V70_22.ino.bin
 year=2026
 notes=S.A.F.E firmware is up to date
