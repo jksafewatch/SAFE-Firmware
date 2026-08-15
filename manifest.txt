@@ -1,6 +1,5 @@
-safe_version=S.A.F.E 26.6
-release_year=2026
-firmware_major=70
-firmware_minor=22
-firmware_url=
-release_notes=S.A.F.E firmware is up to date
+firmware=70.22
+safe=S.A.F.E 26.6
+url=
+year=2026
+notes=S.A.F.E firmware is up to date
