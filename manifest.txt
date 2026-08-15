@@ -1,4 +1,4 @@
-firmware=70.22
+firmware=V70.22
 safe=S.A.F.E 26.6
 url=
 year=2026
